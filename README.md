@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavan Kumar Reddy  
-- 👀 I’m interested in Cloud computing
-- 🌱 I’m currently learning Azure administrator and Python
-- 💞️ I’m looking to collaborate on Azure administrator
+- 👀 Currently working as Mianframe developer.
+- 🌱 I’m currently learning Azure administrator and C#
+- 💞️ I’m looking to collaborate on Azure administrator and C# projects 
 - 📫 How to reach me ...
 
 <!---
